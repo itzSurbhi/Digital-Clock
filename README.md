@@ -22,17 +22,8 @@ The clock displays the current system time in the following format:
 
 * HTML5
 * CSS3
-* JavaScript (ES6)
+* JavaScript
 
-## 📂 Project Structure
-
-```text
-Digital-Clock/
-│
-├── index.html
-├── project5.js
-└── README.md
-```
 
 ## ⚙️ How It Works
 
@@ -48,7 +39,7 @@ Digital-Clock/
 * DOM Manipulation
 * Using setInterval()
 * Creating responsive UI with CSS
-* Real-time data updates in web applications
+* Real-time data updates in web applications.
 
 ##Screenshot
 
